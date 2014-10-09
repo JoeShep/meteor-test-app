@@ -7,8 +7,8 @@ meteor-platform
 insecure
 bootstrap
 iron:router
-mrt:bootstrap-3
 accounts-password
-mrt:accounts-ui-bs3-and-blaze
-accounts-base
 splendido:accounts-templates-bootstrap
+
+ian:accounts-ui-bootstrap-3
+
