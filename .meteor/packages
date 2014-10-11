@@ -4,11 +4,11 @@
 # but you can also edit it by hand.
 
 meteor-platform
+mizzao:bootstrap-3
 insecure
-bootstrap
 iron:router
 accounts-password
 splendido:accounts-templates-bootstrap
-
 ian:accounts-ui-bootstrap-3
+
 
